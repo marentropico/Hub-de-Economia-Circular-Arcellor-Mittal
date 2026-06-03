@@ -1,0 +1,6 @@
+{
+  "name": "Hub de Economia Circular",
+  "description": "B2B marketplace for purchasing industrial steel manufacturing byproducts like slag for circular economy integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
